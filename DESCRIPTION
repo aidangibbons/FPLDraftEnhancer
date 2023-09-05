@@ -1,0 +1,13 @@
+Package: FPLDraftEnhancer
+Title: FPL Draft Enhancer
+Version: 0.0.0.9000
+Authors@R: person('Aidan', 'Gibbons', email = 'aidangibbo@gmail.com', role = c('cre', 'aut'))
+Description: App to improve the FPL draft experience
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.2),
+    golem (>= 0.4.1),
+    shiny (>= 1.7.5)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
